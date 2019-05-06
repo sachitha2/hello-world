@@ -1,2 +1,2 @@
 # hello-world
-this is my frist git hun project
+this is my frist github project
